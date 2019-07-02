@@ -1,0 +1,6 @@
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\Week6\obj\Debug\Week6.csproj.CoreCompileInputs.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\Week6\bin\Debug\Week6.exe.config
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\Week6\bin\Debug\Week6.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\Week6\bin\Debug\Week6.pdb
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\Week6\obj\Debug\Week6.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\Week6\obj\Debug\Week6.pdb

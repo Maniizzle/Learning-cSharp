@@ -1,0 +1,11 @@
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWeek3\bin\Debug\ClassWeek3.exe.config
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWeek3\bin\Debug\ClassWeek3.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWeek3\bin\Debug\ClassWeek3.pdb
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWeek3\obj\Debug\ClassWeek3.csprojAssemblyReference.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWeek3\obj\Debug\ClassWeek3.csproj.CoreCompileInputs.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWeek3\obj\Debug\ClassWeek3.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWeek3\obj\Debug\ClassWeek3.pdb
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWeek3\bin\Debug\ACM.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWeek3\bin\Debug\ACM.pdb
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWeek3\bin\Debug\ACM.exe.config
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWeek3\obj\Debug\ClassWeek3.csproj.CopyComplete

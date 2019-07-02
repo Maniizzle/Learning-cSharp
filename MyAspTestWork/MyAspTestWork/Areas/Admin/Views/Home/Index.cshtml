@@ -1,0 +1,38 @@
+﻿@model Person[]
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <title> Areas</title>
+</head>
+<body class="panel-body">
+    <div>
+        <table class="table table-bordered table-striped table-condensed">
+            <tr>
+                <th>Name</th>
+                <th>City</th>
+            </tr>
+            @foreach (Person r in Model)
+            {
+                <tr>
+                    <td> @r.Name</td>
+                    <td> @r.City</td>
+                </tr>
+            }
+
+        </table>
+    </div>
+    
+    
+    </body>
+
+
+
+
+</html>
+

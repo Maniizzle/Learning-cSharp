@@ -1,0 +1,7 @@
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ContactWriters\bin\Debug\ContactWriters.exe.config
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ContactWriters\bin\Debug\ContactWriters.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ContactWriters\bin\Debug\ContactWriters.pdb
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ContactWriters\obj\Debug\ContactWriters.csprojAssemblyReference.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ContactWriters\obj\Debug\ContactWriters.csproj.CoreCompileInputs.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ContactWriters\obj\Debug\ContactWriters.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ContactWriters\obj\Debug\ContactWriters.pdb

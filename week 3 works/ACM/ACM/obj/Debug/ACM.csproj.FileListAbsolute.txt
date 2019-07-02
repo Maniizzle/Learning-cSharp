@@ -1,0 +1,7 @@
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ACM\ACM\bin\Debug\ACM.exe.config
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ACM\ACM\bin\Debug\ACM.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ACM\ACM\bin\Debug\ACM.pdb
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ACM\ACM\obj\Debug\ACM.csprojAssemblyReference.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ACM\ACM\obj\Debug\ACM.csproj.CoreCompileInputs.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ACM\ACM\obj\Debug\ACM.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ACM\ACM\obj\Debug\ACM.pdb

@@ -1,0 +1,7 @@
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\EmployeePaymentRole\bin\Debug\EmployeePaymentRole.exe.config
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\EmployeePaymentRole\bin\Debug\EmployeePaymentRole.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\EmployeePaymentRole\bin\Debug\EmployeePaymentRole.pdb
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\EmployeePaymentRole\obj\Debug\EmployeePaymentRole.csprojAssemblyReference.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\EmployeePaymentRole\obj\Debug\EmployeePaymentRole.csproj.CoreCompileInputs.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\EmployeePaymentRole\obj\Debug\EmployeePaymentRole.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\EmployeePaymentRole\obj\Debug\EmployeePaymentRole.pdb

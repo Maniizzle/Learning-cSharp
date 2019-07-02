@@ -1,0 +1,7 @@
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWork\obj\Debug\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWork\bin\Debug\ClassWork.exe.config
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWork\bin\Debug\ClassWork.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWork\bin\Debug\ClassWork.pdb
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWork\obj\Debug\ClassWork.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWork\obj\Debug\ClassWork.pdb
+C:\Users\OLAMIDE ONAKOYA\source\repos\ClassWeek3\ClassWork\obj\Debug\ClassWork.csprojAssemblyReference.cache

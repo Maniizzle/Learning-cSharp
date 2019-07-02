@@ -1,0 +1,7 @@
+C:\Users\OLAMIDE ONAKOYA\source\repos\CostingPlatform\CostingPlatform\bin\Debug\CostingPlatform.exe.config
+C:\Users\OLAMIDE ONAKOYA\source\repos\CostingPlatform\CostingPlatform\bin\Debug\CostingPlatform.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\CostingPlatform\CostingPlatform\bin\Debug\CostingPlatform.pdb
+C:\Users\OLAMIDE ONAKOYA\source\repos\CostingPlatform\CostingPlatform\obj\Debug\CostingPlatform.csprojAssemblyReference.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\CostingPlatform\CostingPlatform\obj\Debug\CostingPlatform.csproj.CoreCompileInputs.cache
+C:\Users\OLAMIDE ONAKOYA\source\repos\CostingPlatform\CostingPlatform\obj\Debug\CostingPlatform.exe
+C:\Users\OLAMIDE ONAKOYA\source\repos\CostingPlatform\CostingPlatform\obj\Debug\CostingPlatform.pdb
