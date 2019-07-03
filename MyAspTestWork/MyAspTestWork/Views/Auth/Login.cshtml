@@ -29,8 +29,11 @@
         <div class="card">
             <h1 class="title"><span>Swift University</span>Login <span class="msg">Sign in to start your session</span></h1>
             <div class="col-sm-12">
-                <form id="sign_in" method="POST" >
-                    <div asp-validation-summary="All">  </div>
+                <form id="sign_in" method="POST" asp-action="Login">
+                   @if (this.TempData["Failed"] != null )
+                   {
+                       <div class="alert alert-warning" asp-validation-summary="All">  
+                        </div> }
                     <div class="input-group">
 
                         <span class="input-group-addon"> <i class="zmdi zmdi-account"></i> </span>

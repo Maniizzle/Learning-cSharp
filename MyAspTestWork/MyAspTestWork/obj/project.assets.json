@@ -12957,11 +12957,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OLAMIDE ONAKOYA\\source\\repos\\MyAspTestWork\\MyAspTestWork\\MyAspTestWork.csproj",
+      "projectUniqueName": "C:\\Users\\OLAMIDE ONAKOYA\\Documents\\Academy Work\\learning csharp\\MyAspTestWork\\MyAspTestWork\\MyAspTestWork.csproj",
       "projectName": "MyAspTestWork",
-      "projectPath": "C:\\Users\\OLAMIDE ONAKOYA\\source\\repos\\MyAspTestWork\\MyAspTestWork\\MyAspTestWork.csproj",
+      "projectPath": "C:\\Users\\OLAMIDE ONAKOYA\\Documents\\Academy Work\\learning csharp\\MyAspTestWork\\MyAspTestWork\\MyAspTestWork.csproj",
       "packagesPath": "C:\\Users\\OLAMIDE ONAKOYA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OLAMIDE ONAKOYA\\source\\repos\\MyAspTestWork\\MyAspTestWork\\obj\\",
+      "outputPath": "C:\\Users\\OLAMIDE ONAKOYA\\Documents\\Academy Work\\learning csharp\\MyAspTestWork\\MyAspTestWork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
